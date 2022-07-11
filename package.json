@@ -52,7 +52,7 @@
       "@babel/core": "^7.17.12",
       "@glint/core": "^0.8.0",
       "@glint/environment-ember-loose": "^0.8.0",
-      "lerna": "^4.0.0",
+      "lerna": "^5.1.8",
       "@types/ember-data": "^4.0.0",
       "@types/ember-data__adapter": "^4.0.0",
       "@types/ember-data__model": "^4.0.0",
